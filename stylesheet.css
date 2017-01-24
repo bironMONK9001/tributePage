@@ -1,0 +1,50 @@
+body {
+  background-color: blue;
+}
+h1 {
+  font-family: Monospace;
+}
+h2{
+  font-family: Monospace;
+  color: silver;
+  font-size: 40px;
+  margin-top: 60px;
+}
+h3 {
+  font-family: Monospace;
+  color: silver;
+  font-size: 20px;
+  color: silver;
+  text-align: center;
+  margin-top: 10px;
+}
+ul{
+  font-family: Monospace;
+  color: silver;
+  font-size: 25px;
+}
+p{
+  font-family: Monospace;
+  color: silver;
+}
+
+#title {
+  color: silver;
+  text-align: center;
+}
+
+#frame{
+  background-color: green;
+  margin-top: 20px;
+}
+
+.picMain{
+  border-width: 5px;
+  border-color: silver;
+  border-style: solid;
+  border-radius: 15%;
+}
+.fonts{
+  color: silver;
+  font-family: Monospace;
+}
