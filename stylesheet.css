@@ -6,30 +6,30 @@ h1 {
 }
 h2{
   font-family: Monospace;
-  color: #90918c;
+  color: #ffffff;
   font-size: 40px;
   margin-top: 60px;
 }
 h3 {
   font-family: Monospace;
-  color: #90918c;
+  color: #ffffff;
   font-size: 20px;
-  color: #90918c;
+  color: #ffffff;
   text-align: center;
   margin-top: 10px;
 }
 ul{
   font-family: Monospace;
-  color: #90918c;
+  color: #ffffff;
   font-size: 25px;
 }
 p{
   font-family: Monospace;
-  color: #90918c;
+  color: #ffffff;
 }
 
 #title {
-  color: #90918c;
+  color: #ffffff;
   text-align: center;
 }
 
@@ -45,6 +45,6 @@ p{
   border-radius: 15%;
 }
 .fonts{
-  color: #90918c;
+  color: #ffffff;
   font-family: Monospace;
 }
