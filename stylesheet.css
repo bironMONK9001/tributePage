@@ -1,50 +1,50 @@
 body {
-  background-color: blue;
+  background-color: #36578c;
 }
 h1 {
   font-family: Monospace;
 }
 h2{
   font-family: Monospace;
-  color: silver;
+  color: #90918c;
   font-size: 40px;
   margin-top: 60px;
 }
 h3 {
   font-family: Monospace;
-  color: silver;
+  color: #90918c;
   font-size: 20px;
-  color: silver;
+  color: #90918c;
   text-align: center;
   margin-top: 10px;
 }
 ul{
   font-family: Monospace;
-  color: silver;
+  color: #90918c;
   font-size: 25px;
 }
 p{
   font-family: Monospace;
-  color: silver;
+  color: #90918c;
 }
 
 #title {
-  color: silver;
+  color: #90918c;
   text-align: center;
 }
 
 #frame{
-  background-color: green;
+  background-color: #4ea701;
   margin-top: 20px;
 }
 
 .picMain{
   border-width: 5px;
-  border-color: silver;
+  border-color: #90918c;
   border-style: solid;
   border-radius: 15%;
 }
 .fonts{
-  color: silver;
+  color: #90918c;
   font-family: Monospace;
 }
